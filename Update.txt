@@ -1,0 +1,3 @@
+Try to use OTA Updates rather than using Update.zip
+
+To use OTA updates, go to Admin Panel -> Updates -> APPLY (easy peasy!)

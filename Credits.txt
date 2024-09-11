@@ -1,0 +1,17 @@
+Credits
+--------------------
+
+Laravel Framework by Taylor Otwell (License: MIT)
+https://laravel.com/
+
+Laravel Jetstream (License: MIT)
+https://github.com/laravel/jetstream
+
+IMAP Library for Laravel (License: MIT)
+https://github.com/ddeboer/imap
+
+Tailwind by twbs (License: MIT)
+https://github.com/tailwindlabs/tailwindcss
+
+Alpine JS (License: MIT)
+https://github.com/alpinejs/alpine
